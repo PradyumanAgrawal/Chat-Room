@@ -4,7 +4,7 @@
 
 
 ### Introduction
-This is a Chat-Room named Chat App used to .We would using React as Frontend and Express as Backend with Socket.io for live updating of Chat-App.
+We would using React as Frontend and Express as Backend with Socket.io for live updating of Chat-App.
 
 ### Installing depencencies and running the app
 You should have `node` installed in your system.  
