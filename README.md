@@ -1,6 +1,6 @@
 # Chat-Room
 
-<button type="button" onclick="window.location.href='https://join.slack.com/t/coding-ninjasgroup/shared_invite/enQtODM2OTgxODE3ODYyLTE4MGE0ZDNhMTczYTc5NjAwYjNmZWEwNGM1N2JhNjU0MWJkOTBmYjc3ZmQ3MTgwM2EwNWYzNTIwMjMxZmEyOGQ'" class="btn btn-slack"><i class="fa fa-slack left"></i>Chat on Slack</button>
+[Chat on Slack](https://join.slack.com/t/coding-ninjasgroup/shared_invite/enQtODM2OTgxODE3ODYyLTE4MGE0ZDNhMTczYTc5NjAwYjNmZWEwNGM1N2JhNjU0MWJkOTBmYjc3ZmQ3MTgwM2EwNWYzNTIwMjMxZmEyOGQ)
 
 
 ### Introduction
