@@ -33,3 +33,18 @@ You should have `node` installed in your system.
 * Feel free to open new issues if you encounter bugs or want to suggest some enhancement in the app
 
 Slack Channel : [Coding-Ninjas](https://join.slack.com/t/coding-ninjasgroup/shared_invite/enQtODM2OTgxODE3ODYyLTE4MGE0ZDNhMTczYTc5NjAwYjNmZWEwNGM1N2JhNjU0MWJkOTBmYjc3ZmQ3MTgwM2EwNWYzNTIwMjMxZmEyOGQ)
+
+
+## How to update your local master branch
+* First of all add upstream remote. You can add upstream like
+```bash
+git remote add upstream https://github.com/govind2006/titiksha-19.git
+```
+* Now fetch the updated master branch
+```bash
+git fetch upstream
+```
+* Now merge fetch code to your local branch master
+```bash
+git merge upstream/master
+```
