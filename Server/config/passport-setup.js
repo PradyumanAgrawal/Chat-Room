@@ -20,7 +20,7 @@ passport.deserializeUser((id,done)=>{
 //tell passport which strategy we are going to use
 passport.use(
       new GoogleStrategy({
-            //remember to correct the URL while integration
+            //remember to correct the URL while integration on google apis and our keys file
             callbackURL : keys.google.callbackURL,
             clientID: keys.google.clientID,
             clientSecret : keys.google.clientSecret
